@@ -1,0 +1,16 @@
+PODS:
+  - MenuBtnView (0.1.0)
+
+DEPENDENCIES:
+  - MenuBtnView (from `../`)
+
+EXTERNAL SOURCES:
+  MenuBtnView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MenuBtnView: 0be2e931e424a2228588c9b92201b955ddf36f91
+
+PODFILE CHECKSUM: c7470306552dfb7709e01807c42b42a766ad6352
+
+COCOAPODS: 1.0.1

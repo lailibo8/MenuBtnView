@@ -1,0 +1,6 @@
+framework module MenuBtnView {
+  umbrella header "MenuBtnView-umbrella.h"
+
+  export *
+  module * { export * }
+}

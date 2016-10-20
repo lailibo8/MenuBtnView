@@ -1,0 +1,22 @@
+{
+  "name": "MenuBtnView",
+  "version": "0.1.0",
+  "summary": "A short jkjkjkjkjkjkjkkkkkkkkkkkkkdescription of MenuBtnView.",
+  "description": "TODO: Add long descriptiondkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj of the pod here.",
+  "homepage": "https://github.com/lailibo8/MenuBtnView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lailibo8": "lailibo2009@163.com"
+  },
+  "source": {
+    "git": "https://github.com/lailibo8/MenuBtnView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MenuBtnView/Classes/**/*"
+}
