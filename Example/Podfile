@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MenuBtnView_Example' do
+  pod 'MenuBtnView', :path => '../'
+
+  target 'MenuBtnView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
